@@ -1,4 +1,4 @@
-$ git - commit -m"new slide"
+$ git - commit -m"New Slide"
 
 layout: slide
 title: "Welcome to our second slide!"
