@@ -1,6 +1,7 @@
+add layout and text
+
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello
+Hello, 
 Use the left arrow to go back!
-add layout and title
